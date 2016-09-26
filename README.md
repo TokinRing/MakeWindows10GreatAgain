@@ -1,11 +1,13 @@
 MakeWindows10GreatAgain is a script to turn off and remove Windows bloatware and spyware.
 
-Open a PowerShell prompt with elevated privileges.
+1. Open a PowerShell prompt with elevated privileges.
 
-Set the execution policy to unrestricted:
-Set-ExecutionPolicy Unrestricted -Force
+2. Set the execution policy to unrestricted:
 
-Run the script:
-.\MakeWindows10GreatAgain
+`Set-ExecutionPolicy Unrestricted -Force`
 
-When the script finishes, press Enter to reboot the system.
+3. Run the script:
+
+`.\MakeWindows10GreatAgain`
+
+4. When the script finishes, press Enter to reboot the system.
